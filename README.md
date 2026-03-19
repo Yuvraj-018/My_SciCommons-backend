@@ -72,6 +72,8 @@ Not yet implemented (full GSoC scope):
 - Reviewer anonymization controls
 - pgvector for persistent embeddings
 
+<img width="1233" height="1615" alt="screenshot_6_api_json_response" src="https://github.com/user-attachments/assets/d247e21f-d009-4c34-838e-220945292c37" />
+
 ## Setup
 ```bash
 # Copy env file
